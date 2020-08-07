@@ -1,4 +1,4 @@
-
+# All ddls
 create external table sample.productlines
 (productLine varchar(50),
 textDescription varchar(4000),
